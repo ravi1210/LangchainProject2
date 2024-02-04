@@ -59,3 +59,7 @@ texts[1]
 
 # Download embeddings from OpenAI
 embeddings = OpenAIEmbeddings()
+
+
+
+############
